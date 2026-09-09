@@ -22,11 +22,12 @@ Website: [openrecruitertools.github.io](https://openrecruitertools.github.io)
 |---|---|---|
 | [LinkedIn Toolkit](https://github.com/OpenRecruiterTools/linkedin-toolkit) | Search, research and outreach on LinkedIn from your own logged-in browser, driven by you or by your AI agent, with a human approval queue. An open-source alternative to Waalaxy and PhantomBuster. | Your session, your prospects, your messages. Everything stays in your browser and a local database. |
 | [LinkedIn Unfollow](https://github.com/OpenRecruiterTools/linkedin-unfollow) | Unfollow everyone in your feed in one click, connections included, at human pace. | Anything. No account, no server, no analytics. |
+| [Recruiter Tools](https://github.com/OpenRecruiterTools/recruiter-tools) | Redact a CV, merge, split, compress, watermark, header and footer. Six PDF tools that run entirely in your browser: [use them here](https://openrecruitertools.github.io/recruiter-tools/). | The file. It is opened and rewritten inside the browser tab, never uploaded. |
 | [Google Slides Builder](https://github.com/OpenRecruiterTools/google-slides-builder) | Build Google Slides decks from Python without the API's EMU maths and field masks. | Nothing beyond your own Google account. |
 
 ## What's coming
 
-- **Recruiter PDF tools**, running entirely in the browser on a static page: merge, split, compress, watermark, header and footer, cover page, and a CV redaction tool that strips names, emails and pronouns without uploading the file anywhere.
+- **More recruiter PDF tools**: cover pages, PDF to images, spreadsheet conversions, and a text-preserving redaction mode.
 - **The same tools as a Python package and MCP server**, so your AI agent can use them too.
 - **RecruitClaw**, an open-source recruiting assistant you run on your own cloud account, with WhatsApp and desktop automation. Bring your own keys, pay only your own provider.
 
