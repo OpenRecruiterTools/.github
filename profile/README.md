@@ -16,13 +16,17 @@ That's what this organisation is for.
 
 Website: [openrecruitertools.github.io](https://openrecruitertools.github.io)
 
+![An AI agent searches LinkedIn from your own browser, drafts five connection notes, and parks each one in an approval queue](demo.gif)
+
+<sub>LinkedIn Toolkit in demo mode. Every tool call is real; everyone in it is invented. [Try it without installing](https://openrecruitertools.github.io/linkedin-toolkit/try/).</sub>
+
 ## What's here
 
 | Tool | What it does | What it never sends |
 |---|---|---|
 | [LinkedIn Toolkit](https://github.com/OpenRecruiterTools/linkedin-toolkit) | Search, research and outreach on LinkedIn from your own logged-in browser, driven by you or by your AI agent, with a human approval queue. An open-source alternative to Waalaxy and PhantomBuster. | Your session, your prospects, your messages. Everything stays in your browser and a local database. |
 | [LinkedIn Unfollow](https://github.com/OpenRecruiterTools/linkedin-unfollow) | Unfollow everyone in your feed in one click, connections included, at human pace. | Anything. No account, no server, no analytics. |
-| [Recruiter Tools](https://github.com/OpenRecruiterTools/recruiter-tools) | Redact a CV, merge, split, compress, watermark, header and footer. Six PDF tools that run entirely in your browser: [use them here](https://openrecruitertools.github.io/recruiter-tools/). | The file. It is opened and rewritten inside the browser tab, never uploaded. |
+| [Recruiter Tools](https://github.com/OpenRecruiterTools/recruiter-tools) | Redact a CV, merge, split, compress, convert and more. Fifteen document tools that run entirely in your browser: [use them here](https://openrecruitertools.github.io/recruiter-tools/). | The file. It is opened and rewritten inside the browser tab, never uploaded. |
 | [Google Slides Builder](https://github.com/OpenRecruiterTools/google-slides-builder) | Build Google Slides decks from Python without the API's EMU maths and field masks. | Nothing beyond your own Google account. |
 
 ## What's coming
